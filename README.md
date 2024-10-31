@@ -1,4 +1,5 @@
-// here I have added my WebdriverIO Automation Script to create a tickets at JIRA via web Automation
+Here, I have added my WebdriverIO Automation Script to create a tickets at JIRA via web Automation
+--------------------------------------------------------------------------------------------------
 
 Step to Run
 -----------
