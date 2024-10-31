@@ -1,0 +1,6 @@
+{
+    "Project": "Create Tickets through Web Automation Work",
+    "Issue_type": ["Story", "Bug", "Task"],
+    "Summary": "Creating a Ticket Using WebdriverIO Automation + ",
+    "Assignee": ["Marvel","Wanda","Thor"]
+}
